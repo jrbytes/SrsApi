@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "86aPVjnhVwgjy0xiETHvjU9c8DhJx7MvXBO208epu20=",
+  "Source": "SrsApi",
+  "BasePath": "_content/SrsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
