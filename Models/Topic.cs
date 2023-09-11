@@ -1,4 +1,4 @@
-namespace Topics.Models
+namespace SrsApi.Models
 {
     public class Topic
     {
