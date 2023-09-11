@@ -2,11 +2,11 @@
 
 Table: Topic
 
-id: ID (Chave Primária)
-name: Nome do Assunto
-description: Descrição do Assunto
-dateOfAddition: Data de Adição
-lastReviewDate: Última Data de Revisão
+Id: ID (Chave Primária)
+Name: Nome do Assunto
+Description: Descrição do Assunto
+DateOfAddition: Data de Adição
+LastReviewDate: Última Data de Revisão
 
 ### Intervalos do Método Herbinhaus
 
